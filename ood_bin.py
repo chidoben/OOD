@@ -32,6 +32,4 @@ class Bin(frozenset):
     Bin contains a collection of Outcomes which reflect the winning bets
     that are paid for a particular bin on a Roulette wheel.
 
-    Fields:
-        outcomes: A frozenset that holds the collection of individual Outcomes.
     """
